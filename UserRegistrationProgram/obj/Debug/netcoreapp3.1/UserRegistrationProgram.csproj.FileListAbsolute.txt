@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\netcoreapp3.1\UserRegistrationProgram.exe
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\netcoreapp3.1\UserRegistrationProgram.deps.json
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\netcoreapp3.1\UserRegistrationProgram.runtimeconfig.json
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\netcoreapp3.1\UserRegistrationProgram.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\netcoreapp3.1\UserRegistrationProgram.dll
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\bin\Debug\netcoreapp3.1\UserRegistrationProgram.pdb
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\netcoreapp3.1\UserRegistrationProgram.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\netcoreapp3.1\UserRegistrationProgram.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\netcoreapp3.1\UserRegistrationProgram.AssemblyInfo.cs
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\netcoreapp3.1\UserRegistrationProgram.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\netcoreapp3.1\UserRegistrationProgram.dll
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\netcoreapp3.1\UserRegistrationProgram.pdb
+C:\Users\USER\source\repos\Demo\UserRegistrationProgram\UserRegistrationProgram\obj\Debug\netcoreapp3.1\UserRegistrationProgram.genruntimeconfig.cache
